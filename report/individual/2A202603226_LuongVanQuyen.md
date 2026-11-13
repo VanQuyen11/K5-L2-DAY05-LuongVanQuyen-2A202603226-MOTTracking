@@ -97,11 +97,11 @@ Lỗi flag, frame 120, P4: “Ở lượt 2, tôi thấy P4 đã khuất hẳn n
 
 | Kiểm tra | Kết quả |
 |---|---|
-| Tên file MOT 1.1 | |
-| Tên file CVAT for video 1.1 | |
-| Số track ID khác nhau trong `gt/gt.txt` (phải là 5) | |
-| Frame `outside` không có dòng trong `gt.txt` (đúng / sai) | |
-| Job đã completed trên CVAT máy cá nhân | |
+| Tên file MOT 1.1 |'src\exports\LuongVanQuyen_mot.zip' |
+| Tên file CVAT for video 1.1 |'src\exports\LuongVanQuyen_cvat_video.zip' |
+| Số track ID khác nhau trong `gt/gt.txt` (phải là 5) |5 |
+| Frame `outside` không có dòng trong `gt.txt` (đúng / sai) |Đúng |
+| Job đã completed trên CVAT máy cá nhân |Đúng |
 
 Dán phần tóm tắt in ra từ `src/check_submission.py`:
 
